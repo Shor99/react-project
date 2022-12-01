@@ -1,0 +1,12 @@
+.grid{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    max-width: 500px;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30vw;
+}
